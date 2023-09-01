@@ -3,4 +3,3 @@
 - It's conviniently timed
 - The TAs are nice
   
-
